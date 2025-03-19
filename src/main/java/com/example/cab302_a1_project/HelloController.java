@@ -48,8 +48,8 @@ Elementum nibh tellus molestie nunc non blandit massa.""");
     @FXML
     protected void onNextButtonClick() throws IOException {
         Stage stage = (Stage) nextButton.getScene().getWindow();
-        FXMLLoader fxmlLoader = new FXMLLoader(com.example.addressbook.HelloApplication.class.getResource("main-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), com.example.addressbook.HelloApplication.WIDTH, com.example.addressbook.HelloApplication.HEIGHT);
+        FXMLLoader fxmlLoader = new FXMLLoader(com.example.cab302_a1_project.HelloApplication.class.getResource("main-view.fxml"));
+        Scene scene = new Scene(fxmlLoader.load(), com.example.cab302_a1_project.HelloApplication.WIDTH, com.example.cab302_a1_project.HelloApplication.HEIGHT);
         stage.setScene(scene);
     }
 
