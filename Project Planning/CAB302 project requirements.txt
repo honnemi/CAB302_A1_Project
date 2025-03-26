@@ -16,6 +16,7 @@ From project idea:
 - Personalised feedback and recommendations
 - Difficulty settings
 - Topic selection
+- Upload documents to train the AI tutor
 
 Others:
 - AI chat feature
