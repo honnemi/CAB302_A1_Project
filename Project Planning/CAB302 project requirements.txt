@@ -12,6 +12,7 @@ From task requirements:
 From project idea:
 - Quiz generation based on provided study material
 - Progress tracking and performance analysis
+- Rating system out of 10
 - Personalised feedback and recommendations
 - Difficulty settings
 - Topic selection
@@ -21,4 +22,4 @@ Others:
 - Store past quizzes to be viewed or taken again
 - Dynamic difficulty setting - difficulty changes during quiz based on performance
 - Text to speech for accessibility
-- 
+- API integration with multiple endpoints
