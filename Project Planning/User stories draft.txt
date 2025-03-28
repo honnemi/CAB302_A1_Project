@@ -20,3 +20,5 @@ User stories
 - As a user, I want to be able to customize the look of my quizzes (such as the name, thumbnail, quiz length, etc.), so that I can better organize my studies.
 - As a user, I want to be able to see the answers for each question after I finish the quiz, so that I can review where I went wrong.
 - As a user, I want the AI to summarize the content I have uploaded, so that I can save myself time and effort creating my own quiz.
+- As a user, I want to take tests under time constraints to simulate exam conditions.
+- As a user, I would like to compare my test results after completing one to the results of the most recently completed tests.
